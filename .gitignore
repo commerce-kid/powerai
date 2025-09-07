@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+
+# Conda
+*.conda
+conda-meta/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Mac
+.DS_Store
+
+# Caches
+.cache/
+.huggingface/
+~/.cache/
+
+# Data (PDFs)
+powerai/data/
+
+# VSCode
+.vscode/
